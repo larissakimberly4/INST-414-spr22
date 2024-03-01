@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="artist" attr.type="string"/>
+<graph edgedefault="directed"><node id="Ella Baila Sola">
+  <data key="d0">Eslabon Armado, Peso Pluma</data>
+</node>
+<node id="La Bebe - Remix">
+  <data key="d0">Peso Pluma, Yng Lvcas</data>
+</node>
+<node id="Super Shy">
+  <data key="d0">NewJeans</data>
+</node>
+<node id="Flowers">
+  <data key="d0">Miley Cyrus</data>
+</node>
+<node id="Cupid - Twin Ver.">
+  <data key="d0">Fifty Fifty</data>
+</node>
+<node id="Like Crazy">
+  <data key="d0">Jimin</data>
+</node>
+<node id="Last Night">
+  <data key="d0">Morgan Wallen</data>
+</node>
+<node id="TQG">
+  <data key="d0">Karol G, Shakira</data>
+</node>
+<node id="Die For You - Remix">
+  <data key="d0">Ariana Grande, The Weeknd</data>
+</node>
+<node id="New Jeans">
+  <data key="d0">NewJeans</data>
+</node>
+<node id="OMG">
+  <data key="d0">NewJeans</data>
+</node>
+<node id="Shakira: Bzrp Music Sessions, Vol. 53">
+  <data key="d0">Shakira, Bizarrap</data>
+</node>
+<node id="Cupid">
+  <data key="d0">Fifty Fifty</data>
+</node>
+<node id="Set Me Free Pt.2">
+  <data key="d0">Jimin</data>
+</node>
+<node id="Like Crazy (English Version)">
+  <data key="d0">Jimin</data>
+</node>
+<node id="Everything I Love">
+  <data key="d0">Morgan Wallen</data>
+</node>
+<node id="I Wrote The Book">
+  <data key="d0">Morgan Wallen</data>
+</node>
+<node id="Born With A Beer In My Hand">
+  <data key="d0">Morgan Wallen</data>
+</node>
+<edge source="Super Shy" target="New Jeans"/>
+<edge source="Super Shy" target="OMG"/>
+<edge source="Cupid - Twin Ver." target="Cupid"/>
+<edge source="Like Crazy" target="Set Me Free Pt.2"/>
+<edge source="Like Crazy" target="Like Crazy (English Version)"/>
+<edge source="Last Night" target="Everything I Love"/>
+<edge source="Last Night" target="I Wrote The Book"/>
+<edge source="Last Night" target="Born With A Beer In My Hand"/>
+<edge source="New Jeans" target="OMG"/>
+<edge source="Set Me Free Pt.2" target="Like Crazy (English Version)"/>
+<edge source="Everything I Love" target="I Wrote The Book"/>
+<edge source="Everything I Love" target="Born With A Beer In My Hand"/>
+<edge source="I Wrote The Book" target="Born With A Beer In My Hand"/>
+</graph></graphml>
